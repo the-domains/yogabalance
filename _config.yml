@@ -1,0 +1,14 @@
+layout_spectrum: 0.6223696467932314
+typography_spectrum: 0.21389284823089838
+color:
+  brandStrength: 0.47172816190868616
+  lightness: 0.2689544758759439
+  saturation: 0.3238148575183004
+  rhythmicContrast: 0.30992513056844473
+  brandColors:
+    - '#000000'
+    - '#90A865'
+    - '#21390C'
+    - '#007890'
+    - '#FEDDD3'
+name: YogaBalance
